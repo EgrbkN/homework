@@ -1,0 +1,11 @@
+items:
+- TV
+- Microphone
+- PC
+- Notebook
+items_price:
+  Microphone: 50-200€
+  Notebook: 500-2500€
+  PC: 300-2000€
+  TV: 100-1000€
+items_quantity: 4
